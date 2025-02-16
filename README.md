@@ -1,2 +1,17 @@
 # microcms-blog
-microcmsで色々試すリポジトリ
+
+microcms で色々試すリポジトリ
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
